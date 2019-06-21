@@ -1,1 +1,1 @@
-UPDATE TABLE characters 
+UPDATE TABLE characters SET species = "Martian" 
