@@ -21,5 +21,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Her
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Draco Malfoy", "motto_4", "Wizard", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Frodo", "motto_5", "Hobbit", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Legolas", "motto_6", "Elf", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "motto_7", "wizard", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "motto_8", "wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gandalf", "motto_7", "Wizard", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "motto_8", "wizard", 1, 1);
