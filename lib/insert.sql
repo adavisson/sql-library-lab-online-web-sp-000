@@ -15,4 +15,11 @@ INSERT INTO books (title, year, series_id) VALUES ("The Philosopher's Stone", 19
 INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Prisoner of Azkaban", 1999, 2);
 
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ()
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "motto_1", "wizard", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ron Weasley", "motto_2", "wizard", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Hermione Granger", "motto_3", "wizard", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Draco Malfoy", "motto_4", "wizard", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Frodo", "motto_5", "Hobbit", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "motto_1", "wizard", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "motto_1", "wizard", 2, 2);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Harry Potter", "motto_1", "wizard", 2, 2);
