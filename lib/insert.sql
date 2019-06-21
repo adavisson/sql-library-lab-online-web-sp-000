@@ -11,3 +11,6 @@ INSERT INTO authors (name) VALUES ("H. G. Wells");
 INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Two Towers", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Return of the King", 1955, 1);
+INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", , 2);
+INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 2);
+INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 2);
