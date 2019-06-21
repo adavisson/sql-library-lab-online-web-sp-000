@@ -15,3 +15,4 @@ INSERT INTO books (title, year, series_id) VALUES ("The Philosopher's Stone", 19
 INSERT INTO books (title, year, series_id) VALUES ("The Chamber of Secrets", 1998, 2);
 INSERT INTO books (title, year, series_id) VALUES ("The Prisoner of Azkaban", 1999, 2);
 
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ()
