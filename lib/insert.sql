@@ -22,3 +22,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Fro
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Legolas", "motto_6", "Elf", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gandalf", "motto_7", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Samwise", "motto_8", "Hobbit", 1, 1);
+
+INSERT INTO charter_books ()
