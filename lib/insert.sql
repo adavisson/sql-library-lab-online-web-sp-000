@@ -8,4 +8,4 @@ INSERT INTO authors (name) VALUES ("J. R. R. Tolkien");
 INSERT INTO authors (name) VALUES ("J. K. Rowling");
 INSERT INTO authors (name) VALUES ("H. G. Wells");
 
-INSERT INTO books (title, year, series_id) VALUES ()
+INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", )
