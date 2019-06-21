@@ -6,7 +6,6 @@ INSERT INTO subgenres (name) VALUES ("time-travel");
 
 INSERT INTO authors (name) VALUES ("J. R. R. Tolkien");
 INSERT INTO authors (name) VALUES ("J. K. Rowling");
-INSERT INTO authors (name) VALUES ("H. G. Wells");
 
 INSERT INTO books (title, year, series_id) VALUES ("The Fellowship of the Ring", 1954, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Two Towers", 1954, 1);
