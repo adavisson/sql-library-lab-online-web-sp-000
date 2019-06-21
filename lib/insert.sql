@@ -23,4 +23,19 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Leg
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Gandalf", "motto_7", "Wizard", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Samwise", "motto_8", "Hobbit", 1, 1);
 
-INSERT INTO charter_books ()
+INSERT INTO charter_books (book_id, character_id) VALUES (1, 5);
+INSERT INTO charter_books (book_id, character_id) VALUES (2, 5);
+INSERT INTO charter_books (book_id, character_id) VALUES (3, 5);
+INSERT INTO charter_books (book_id, character_id) VALUES (1, 7);
+INSERT INTO charter_books (book_id, character_id) VALUES (2, 7);
+INSERT INTO charter_books (book_id, character_id) VALUES (3, 7);
+INSERT INTO charter_books (book_id, character_id) VALUES (4, 1);
+INSERT INTO charter_books (book_id, character_id) VALUES (5, 1);
+INSERT INTO charter_books (book_id, character_id) VALUES (6, 1);
+INSERT INTO charter_books (book_id, character_id) VALUES (4, 2);
+INSERT INTO charter_books (book_id, character_id) VALUES (5, 2);
+INSERT INTO charter_books (book_id, character_id) VALUES (6, 2);
+INSERT INTO charter_books (book_id, character_id) VALUES ();
+INSERT INTO charter_books (book_id, character_id) VALUES ();
+INSERT INTO charter_books (book_id, character_id) VALUES ();
+INSERT INTO charter_books (book_id, character_id) VALUES ();
